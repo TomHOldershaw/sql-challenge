@@ -22,7 +22,7 @@ CREATE TABLE "dept_manager" (
     "dept_no" varchar   NOT NULL,
     "emp_no" int   NOT NULL,
     CONSTRAINT "pk_dept_manager" PRIMARY KEY (
-        "dept_no"
+        "emp_no"
      )
 );
 
