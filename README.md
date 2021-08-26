@@ -4,6 +4,7 @@ SQL Challenge - homework week 9
 Contains code for homework week 9 - SQL Challenge
 
 ## Main homework
+Contained within the EmployeeSQL folder
 ### ERD.png
 ERD diagram. Shows tables and columns, with primary keys (including where two columns form a composite key) and links to foreign keys
 Column types are defined as the usable type in the database. Two date columns need to be imported as string and converted to date inside the database.
@@ -22,6 +23,7 @@ Required because data is supplied in MDY format, whereas locale (and therefore d
 List of select statements to extract information as stated in homework brief
 
 ## Bonus
+Contained within the EmployeeSQL folder
 ### Employee_data_analysis.ipynb
 Jupyter Notebook containing additional analysis:
 - Extract data from database to Pandas dataframes
